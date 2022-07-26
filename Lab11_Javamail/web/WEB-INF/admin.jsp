@@ -8,6 +8,7 @@
     <body>
         <h1>Welcome ${email}</h1>
         <h2>Admin Functionality...</h2>
+        
         <p>
             <a href="login">Log out</a>
         </p>
